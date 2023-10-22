@@ -61,16 +61,3 @@ export const ButtonSubmit = styled.button`
     box-shadow: 0px 0px 0px 6px #6a9bd8;
   }
 `;
-/**
- * 
- * :root {
-  --accent: #6a9bd8;
-  --overlay: rgba(40, 40, 40, 0.65);
-  --secondary: #858585;
-  --bg: #ebf5fc;
-  --main-shadow: -2px -2px 5px #ffffff, 3px 3px 5px rgba(0, 0, 0, 0.1);
-  --inset-shadow: inset -2px -2px 5px #ffffff,
-    inset 3px 3px 5px rgba(0, 0, 0, 0.1);
-}
-
- */

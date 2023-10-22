@@ -20,7 +20,7 @@ export const ButtonLoadMore = styled.button`
   transition: all 300ms ease-in-out;
 
   :hover {
-    color: var(--bg);
+    color: #ebf5fc;
     background-color:  #6a9bd8;
   }
 
